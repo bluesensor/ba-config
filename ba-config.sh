@@ -29,7 +29,7 @@ git clone https://github.com/MTDL9/vim-log-highlighting.git ~/.vim_runtime/my_pl
 curl -o ~/.vim_runtime/my_configs.vim https://gist.githubusercontent.com/branny-dev/141770d40dd364403555e85304201ca7/raw/f53157986a9fa661dbaf66a79c2b786537f7b7c1/my_configs.vim
 
 # timedatectl show
-sudo timedatectl set-timezone America/Guayaquil
+# sudo timedatectl set-timezone America/Guayaquil
 # timedatectl list-timezones
 
 # Install docker.
